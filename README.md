@@ -1,5 +1,8 @@
 # 💫 About Me:
 
+- ⚡ I've been building Angular applications for over 4 years
+- 🔥 Mastering TypeScript and taming RxJS
+- 🔗 I'm Learning deep into the world of crypto
 
 
 ## 🌐 Socials:
